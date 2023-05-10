@@ -4,7 +4,7 @@ import { Routes, Route } from 'react-router-dom';
 import './App.css';
 import Calculator from './components/Calculator';
 import Quote from './components/Quote';
-import Home from './components/Layout';
+import Home from './components/Home';
 import Layout from './components/Layout';
 
 function App() {
