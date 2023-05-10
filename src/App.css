@@ -128,3 +128,80 @@ body {
   text-align: center;
   color: #2b2d42;
 }
+
+@media only screen and (max-width: 600px) {
+  .navBar {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1.5rem;
+  }
+  
+  .navHeading {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  }
+  
+  .navLinks {
+  display: none;
+  flex-direction: column;
+  gap: 1rem;
+  margin-top: 1rem;
+  background-color: #2b2d42;
+  width: 100%;
+  padding: 1rem;
+  }
+  
+  .navLinks li {
+  width: 100%;
+  }
+  
+  .navLinks li a {
+  font-size: 1.5rem;
+  color: #f5f5f5;
+  }
+  
+  .showMenu {
+  display: block;
+  }
+  
+  .calcPage {
+  grid-template-columns: 1fr;
+  }
+  
+  .calculator {
+  width: 100%;
+  }
+  
+  .resultBar {
+  height: 4rem;
+  font-size: 2.5rem;
+  padding: 0 1rem;
+  }
+  
+  .keypad {
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-top: 1rem;
+  }
+  
+  .singleButton,
+  .doubleButton {
+  height: 4rem;
+  font-size: 1.5rem;
+  }
+  
+  .quoteContainer {
+  margin-top: 5rem;
+  font-size: 1.5rem;
+  }
+  
+  .menuIcon {
+  font-size: 2.5rem;
+  cursor: pointer;
+  color: #f5f5f5;
+  }
+  
+  .showMenu {
+  display: none;
+  }
+}
