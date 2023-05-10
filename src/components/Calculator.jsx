@@ -10,9 +10,9 @@ const Calculator = () => {
   return (
     <>
       <div className="calcPage">
-        <h2 className="calcText">Let&apos;s do some math!</h2>
+        <h2 className="calcText">Let's solve math problems!</h2>
         <div className="calculator">
-          <div className="resultBar">
+          <div className="resultBar" role="none">
             {currentState.total}
             {currentState.operation}
             {currentState.next}
