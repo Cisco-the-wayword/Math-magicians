@@ -173,12 +173,6 @@ To run tests, run the HTML document in Google Chrome and right-click the HTML el
 - Twitter: [@the_wayword1](https://twitter.com/the_wayword1)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/boluwatife-adegboyega/)
 
-👤 **Federica Ulzurrun**
-
-- GitHub: [@federicaulzurrun](https://github.com/federicaulzurrun)
-- Twitter: [@ulzurrunfede](https://mobile.twitter.com/ulzurrunfede)
-- LinkedIn: [Federica Ulzurrun](https://www.linkedin.com/in/federica-ulzurrun-293a86198)
-
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
