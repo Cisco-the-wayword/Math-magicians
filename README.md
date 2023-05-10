@@ -8,7 +8,6 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
@@ -115,6 +114,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
+### Live Demo Link <a name="live-demo">
+ 
+[Live Demo Link](https://cisco-the-wayword-math-magicians.netlify.app)
 
 <!-- GETTING STARTED -->
 
